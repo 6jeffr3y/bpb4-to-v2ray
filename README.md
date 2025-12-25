@@ -1,5 +1,6 @@
 # BPB 4.0 订阅 JSON → v2ray 标准订阅转换器
 
+问题链接：https://github.com/2dust/v2rayN/discussions/8022
 将 **BPB Panel 4.0** 的订阅链接（通常返回 **Xray 配置 JSON/数组**）转换为 **v2rayN 可识别的标准分享链接订阅**：
 
 - 输出 `vless://...`（支持 WS/TLS：host、path、sni、fp、alpn、allowInsecure 等参数）
